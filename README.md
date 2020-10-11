@@ -33,6 +33,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+So, as you will notice in the gif above, the items added doesn't add at the top but with respect to keyboard. I tried resolving the error by going through the part of code that might lead to this but couldn't figure out what was wrong. 
+
+other major challenge was to keep track of things. I haven't done android programming before so, I noticed that their are a lot of things that we need to keep track of. 
 
 ## License
 
